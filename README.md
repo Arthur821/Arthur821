@@ -1,2 +1,2 @@
-My name is Arthur
-I'm learning python
+My name is Arthur and 
+i'm learning python
